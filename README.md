@@ -7,7 +7,7 @@
 
 ## 💡 About Me
 
-* 🧠 14+ years of experience in software engineering and team leadership
+* 🧠 15+ years of experience in software engineering and team leadership
 * 🏗️ Currently working on scalable enterprise systems in the ERP domain
 * 🔄 Transitioning towards a **hands-on senior backend engineering role**
 * ⚡ Strong focus on **performance, system design, and clean architecture**
